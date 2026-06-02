@@ -18,3 +18,4 @@ Esse projeto ajudou no aprendizado sobre armazenamento de informações, valida�
 
 _______________________________________________________________________________________________________________________________________________________
 
+![imagem](https://github.com/erickdev510/Cadastro_produtos_python/blob/main/cadastro_de_produtos.png)
